@@ -87,9 +87,9 @@ const watch_face_t watch_faces[] = {
 /* Set the timeout before switching to low energy mode
  * Valid values are:
  * 0: Never
- * 1: 10 mins
- * 2: 1 hour
- * 3: 2 hours
+ * 1: 10 seconds
+ * 2: 10 minutes
+ * 3: 1 hour
  * 4: 6 hours
  * 5: 12 hours
  * 6: 1 day
